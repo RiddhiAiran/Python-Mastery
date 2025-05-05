@@ -66,30 +66,6 @@ To run the game:
 python math_quiz_game.py
 ```
 
----
-
-## 👶 Ideal For
-
-* Python beginners
-* Kids learning math and coding
-* Practicing loops, conditionals, functions, and random numbers
-
----
-
-## 📂 File Structure
-
-```
-math_quiz_game.py          # Main game script
-README_Basic_Math_Quiz.md  # Game documentation
-```
-
----
-
-## 📌 Notes
-
-* Extendable to include division or more advanced math.
-* Could be turned into a full game with scoring, levels, and a GUI.
-* Uses only built-in modules: `random` and `input()`.
 
 ---
 
