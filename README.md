@@ -1,7 +1,6 @@
 # Python Mastery: 100 Real-World Projects – From Basic to Advanced
 
-This collection of projects is designed to help you master Python by applying it to real-world scenarios. Whether you're a beginner or looking to advance your skills, these projects cover a wide range of topics, from basic concepts to more complex applications.
-
+This collection of python projects applying it to real-world scenarios. 
 ## 📂 List of Projects
 
 ### 1. **Welcome Message Generator**
