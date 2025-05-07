@@ -24,6 +24,9 @@ This collection of projects is designed to help you master Python by applying it
 
 ### 7. **Shopping List App**
    - A simple app that lets users manage their shopping list by adding, removing, clearing, and viewing items.
+   
+### 8. **Contact Book**
+   - A simple contact book that allows users to add, view, update, search, and delete contacts.
 
 ---
 

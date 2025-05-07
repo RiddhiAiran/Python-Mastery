@@ -25,19 +25,19 @@ It then displays a customized welcome message that incorporates these inputs, ma
 ## 🧪 Example
 
 ```bash
-What's your Name? :  Alice
-What's your Favorite hobby? : painting
+What's your Name? :  Riddhi
+What's your Favorite hobby? : Coding
 ```
 
 📤 Output:
 ```
 🙏🏼 -----Welcome Message----- 🙏🏼 
 
-Hello Alice! 👋🏻 
+Hello Riddhi! 👋🏻 
 
 Welcome to the world of Python Programming! 🐍 
 
-It's great to know that you enjoy Painting. 🎉 
+It's great to know that you enjoy Coding. 🎉 
 
 Get ready to build something amazing today! 🚀 
 ```

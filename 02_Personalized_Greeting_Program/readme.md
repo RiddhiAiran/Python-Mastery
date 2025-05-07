@@ -29,18 +29,18 @@ Using these inputs, it prints a warm and encouraging message tailored to the use
 ## 🧪 Example
 
 ```bash
-What's your Name? :  John
-What's your Age? : 25
-What's your Favorite color? : blue
+What's your Name? :  Akash
+What's your Age? : 21
+What's your Favorite color? : Black
 ```
 
 📤 Output:
 ```
 🙏🏼 -----Personalized Greeting----- 🙏🏼 
 
-Hello John! 👋🏻 
+Hello Akash! 👋🏻 
 
-You are 25 years old, and Blue is a beautiful color! 🎨 
+You are 21 years old, and Black is a beautiful color! 🎨 
 
 You're now ready to embark on an exciting journey with Python! 🚀 
 ```
